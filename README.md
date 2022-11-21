@@ -1,4 +1,4 @@
-"# Word_Embedding_Exp" 
+# Word_Embedding_Exp
 
 4 aspects regarding to Word Embedding are included as follow:
   1. Gensim Word2Vector from scratch
